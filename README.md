@@ -14,7 +14,7 @@ In this analysis I will be extracting temperature data for the months of June an
 
 See below summary statistics: 
 
-![This is an image]()
+![This is an image](https://github.com/ddigioac/surfs_up/blob/0dd85e256576d6f5402a97506377b724ddab4d43/June_Temps.png)
 ![This is an image]()
 
 ## Surfs Up Summary
